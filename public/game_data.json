@@ -1,0 +1,437 @@
+{
+  "level_name": "GameTestEnv_v08",
+  "collectibles": [
+    {
+      "name": "Coin.1",
+      "position": [
+        -2.53,
+        1.241,
+        4.75
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.002",
+      "position": [
+        -1.499,
+        0.959,
+        5.018
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.003",
+      "position": [
+        -0.457,
+        1.175,
+        5.137
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.004",
+      "position": [
+        0.435,
+        0.677,
+        5.365
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.005",
+      "position": [
+        1.308,
+        0.581,
+        5.613
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.006",
+      "position": [
+        -4.276,
+        1.515,
+        4.185
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.007",
+      "position": [
+        -5.942,
+        1.574,
+        4.205
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.008",
+      "position": [
+        -7.023,
+        1.69,
+        4.165
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.009",
+      "position": [
+        -8.491,
+        1.992,
+        3.897
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.010",
+      "position": [
+        -9.582,
+        2.099,
+        3.283
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.011",
+      "position": [
+        -10.722,
+        2.207,
+        2.777
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.012",
+      "position": [
+        -1.054,
+        1.433,
+        -7.164
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.013",
+      "position": [
+        -2.002,
+        1.276,
+        -7.579
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.014",
+      "position": [
+        -0.995,
+        1.227,
+        -8.142
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.015",
+      "position": [
+        -1.824,
+        1.46,
+        -6.779
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.016",
+      "position": [
+        16.212,
+        15.793,
+        0.595
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.017",
+      "position": [
+        15.649,
+        16.397,
+        1.779
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    },
+    {
+      "name": "Coin.018",
+      "position": [
+        15.086,
+        16.231,
+        0.92
+      ],
+      "rotation": [
+        1.571,
+        0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        -1.0
+      ],
+      "grassblade": {},
+      "M3": {},
+      "MM": {},
+      "flip_fluid": {},
+      "ant_landscape": {},
+      "type": "coin"
+    }
+  ]
+}
